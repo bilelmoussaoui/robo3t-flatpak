@@ -1,0 +1,3 @@
+app/
+.flatpak-builder/
+flatpak-builder-tools/
