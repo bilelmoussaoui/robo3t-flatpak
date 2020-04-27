@@ -2,8 +2,8 @@
 <component type="desktop-application">
     <id>org.robomongo.Robo3T</id>
     <launchable type="desktop-id">org.robomongo.Robo3T.desktop</launchable>
-    <name>Robo 3T</name>
-    <metadata_license>GPL-3.0-only</metadata_license>
+    <name>Robo 3T</name>>
+    <metadata_license>CC0</metadata_license>
     <project_license>LicenseRef=https://github.com/Studio3T/robomongo/blob/master/LICENSE</project_license>
     <developer_name>3T Software Labs</developer_name>
     <summary>Free lightweight GUI for MongoDB enthusiasts</summary>
@@ -19,6 +19,7 @@
             <image>https://robomongo.org/static/screens-transparent-6e2a44fd.png</image>
         </screenshot>
     </screenshots>
+    <content_rating type="oars-1.1" />
     <url type="homepage">https://robomongo.org/</url>
     <url type="bugtracker">https://github.com/Studio3T/robomongo/issues</url>
     <releases>
